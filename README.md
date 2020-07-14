@@ -1,5 +1,26 @@
 # hello-world
 just another repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 from random import randint
 a=int(input("enter num between 1-100"))      #תרגיל 4.4
 b=(randint(1,100))
