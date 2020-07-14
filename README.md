@@ -22,6 +22,7 @@ if count == 1:
 else:
     print("you have tried for",count,"times")
 
+
 from random import randint
 a=int(input("enter num between 1-100"))      #תרגיל 4.4
 b=(randint(1,100))
